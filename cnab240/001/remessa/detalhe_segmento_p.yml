@@ -13,6 +13,7 @@ agencia_mais_conta_dv:
   default: ''
 
 nosso_numero:
+  #
   # 1. Caso seja o Banco do Brasil quem gera o "Nosso Número", informar 'brancos' (espaços) ou Zeros.
   # 2. Caso seja a empresa quem gera o "Nosso Número", informar de acordo com o número do convênio de
   # cobrança conforme as seguintes regras:
