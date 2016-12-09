@@ -58,7 +58,7 @@ nosso_numero:
 
 digito_nosso_numero:
   pos: [82, 82]
-  picture: '9(01)'
+  picture: 'X(01)'
 
 desconto_por_dia:
   pos: [83, 92]
