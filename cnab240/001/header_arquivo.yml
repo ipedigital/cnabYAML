@@ -32,6 +32,11 @@ uso_exclusivo_bb_01:
   picture: 'X(2)'
   default: ''
 
+agencia_dv:
+  # Dígito Verificador da Agência mantendedora da conta, fornecido pela CAIXA.
+  pos: [58, 58]
+  picture: '9(1)'
+
 conta:
   pos: [59, 70]
   picture: '9(12)'
