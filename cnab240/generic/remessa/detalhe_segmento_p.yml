@@ -246,7 +246,7 @@ agencia_cobradora_dv:
   # essa informação solicitar a relação de agências cobradoras à agência CAIXA de relacionamento.
   pos: [106, 106]
   picture: '9(1)'
-  default: '0'
+  default: ''
 
 especie:
   # Espécie do Título
