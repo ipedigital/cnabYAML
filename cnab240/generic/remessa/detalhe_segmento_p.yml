@@ -351,7 +351,7 @@ codigo_baixa:
 
 prazo_baixa:
   pos: [225, 227]
-  picture: '9(3)'
+  picture: 'X(3)'
 
 codigo_moeda:
   pos: [228, 229]
